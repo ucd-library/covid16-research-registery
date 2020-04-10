@@ -1,2 +1,2 @@
-# covid16-research-registery
+# covid19-research-registery
 UC Davis Library - Research Registry
